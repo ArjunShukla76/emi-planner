@@ -86,3 +86,4 @@ function calculate() {
 }
 
 document.getElementById("calculate").addEventListener("click", calculate);
+calculate();
