@@ -1,4 +1,5 @@
 # EMI & Prepayment Planner
+![screenshot](screenshot.png)
 
 A simple web app that calculates a loan's monthly EMI and shows how much interest and time you save by making extra monthly prepayments.
 
